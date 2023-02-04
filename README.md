@@ -1,2 +1,2 @@
-# salesData
-A collection of my Data Analysis projects.
+# RFM Sales Data Analysis
+
